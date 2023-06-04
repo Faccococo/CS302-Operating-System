@@ -145,8 +145,7 @@ Dual-mode (two modes) →<font color="red"> **user mode**</font> & <font color="
 <p float="left">
   <img src="picture/3-1.png" style='width:50%;'/>
 </p>
-
-**Notice:** A process ==<font color='red'>can not</font>== change directly from <font color='red'>running</font> to <font color='red'>ready</font>.
+**Notice:** A process ==<font color='red'>**can not**</font>== change directly from <font color='red'>**waiting**</font> to <font color='red'>**running**</font>.
 
 
 
